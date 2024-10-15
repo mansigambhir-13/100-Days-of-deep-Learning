@@ -35,7 +35,7 @@ Welcome to my "100 Days of Deep Learning" challenge repository! This project doc
 
 I'll be updating this section with a brief overview of what I learned or accomplished each day:
 
-1. Day 1: Introduction to Natural language processing
+1. Day 1: Introduction to Natural language processing and tokenization
 2. Day 2: basics of Neural network
 3. ...
 
