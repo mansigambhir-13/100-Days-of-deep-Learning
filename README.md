@@ -69,7 +69,7 @@ While this is a personal challenge, I welcome suggestions, resources, and feedba
 
 ## 📬 Contact
 
-[Your Name] - [Your Email or Social Media]
+Mansi Gambhir- [mansigambhir019@gmail.com]
 
 Project Link: [https://github.com/yourusername/100-days-of-deep-learning](https://github.com/yourusername/100-days-of-deep-learning)
 
