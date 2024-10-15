@@ -1,5 +1,5 @@
 # 100-Days-of-deep-Learning
-# 100 Days of Deep Learning
+
 
 Welcome to my "100 Days of Deep Learning" challenge repository! This project documents my journey through 100 days of learning and practicing deep learning concepts, techniques, and applications.
 
