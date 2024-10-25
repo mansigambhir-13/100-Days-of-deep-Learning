@@ -54,7 +54,7 @@ I'll be updating this section with a brief overview of what I learned or accompl
 - PyTorch
 - Keras
 - Jupyter Notebooks
-- ...
+- NLTK
 
 ## 📖 Learning Resources
 
