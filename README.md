@@ -43,7 +43,7 @@ I'll be updating this section with a brief overview of what I learned or accompl
 
 (This section will be updated as I complete significant projects throughout the challenge)
 
-1. Project 1: [Brief description]
+1. Project 1: Alexa Review Sentiment Analysis
 2. Project 2: [Brief description]
 3. ...
 
