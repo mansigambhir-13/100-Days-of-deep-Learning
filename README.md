@@ -45,7 +45,7 @@ I'll be updating this section with a brief overview of what I learned or accompl
 
 1. Project 1: Alexa Review Sentiment Analysis
 2. Project 2: Quora Question pairs 
-3. ...
+3. Perceptron and perceptron basics
 
 ## 🛠️ Technologies and Tools
 
