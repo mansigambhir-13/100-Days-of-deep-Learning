@@ -37,7 +37,7 @@ I'll be updating this section with a brief overview of what I learned or accompl
 
 1. Day 1: Introduction to Natural language processing and tokenization
 2. Day 2: basics of Neural network
-3. ...
+3. day 3 : Basics of pytorch 
 
 ## 🚀 Key Projects
 
@@ -46,6 +46,7 @@ I'll be updating this section with a brief overview of what I learned or accompl
 1. Project 1: Alexa Review Sentiment Analysis
 2. Project 2: Quora Question pairs 
 3. Perceptron and perceptron basics
+4. 
 
 ## 🛠️ Technologies and Tools
 
