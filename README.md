@@ -37,7 +37,8 @@ I'll be updating this section with a brief overview of what I learned or accompl
 
 1. Day 1: Introduction to Natural language processing and tokenization
 2. Day 2: basics of Neural network
-3. day 3 : Basics of pytorch 
+3. day 3 : Basics of Tensorflow
+4. day 4 : 
 
 ## 🚀 Key Projects
 
